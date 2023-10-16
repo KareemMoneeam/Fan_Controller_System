@@ -1,7 +1,5 @@
 # Temperature-Controlled Fan System
 
-![Project Image](project_image.jpg)
-
 ## Project Overview
 This project is a Temperature-Controlled Fan System designed using the ATmega32 microcontroller. The system automatically controls a fan based on the temperature readings from an LM35 temperature sensor. The project is developed under the supervision of "Eng Mohamed Tarek" at "Edges for Training."
 
@@ -40,14 +38,10 @@ git clone https://github.com/KareemMoneeam/Fan_Controller_System.git
 ## Dependencies
 - [Link to required library or dependencies if applicable]
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or inquiries related to this project, please feel free to connect with me:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)
+- Email: kareemmoneeam@outlook.com
+- LinkedIn: (https://www.linkedin.com/in/KareemMoneeam/)
 
 **Thank you for checking out the Temperature-Controlled Fan System project!**
-
-![Project Image](project_image.jpg)
