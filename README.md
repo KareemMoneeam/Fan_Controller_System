@@ -35,10 +35,6 @@ git clone https://github.com/KareemMoneeam/Fan_Controller_System.git
 
 5. Power on the system and observe the fan's temperature-controlled operation.
 
-## Dependencies
-- [Link to required library or dependencies if applicable]
-
-
 ## Contact
 For any questions or inquiries related to this project, please feel free to connect with me:
 - Email: kareemmoneeam@outlook.com
