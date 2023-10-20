@@ -20,7 +20,6 @@ This project is a Temperature-Controlled Fan System designed using the ATmega32 
 
 ## Repository Contents
 - **/Source_Code:** Contains the source code for the project.
-- **/Datasheets:** Datasheets related to components used in the project.
 - **/Documentation:** Detailed project documentation and design files.
 
 ## Getting Started
