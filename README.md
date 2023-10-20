@@ -26,7 +26,7 @@ This project is a Temperature-Controlled Fan System designed using the ATmega32 
 1. Clone this repository to your local machine using:
 git clone https://github.com/KareemMoneeam/Fan_Controller_System.git
 
-2. Open the project source code in your preferred development environment (e.g., Atmel Studio, AVR-GCC).
+2. Open the project source code in your preferred development environment (e.g., Eclipse, AVR-GCC).
 
 3. Compile and program the code onto your ATmega32 microcontroller.
 
